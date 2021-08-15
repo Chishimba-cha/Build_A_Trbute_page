@@ -1,14 +1,48 @@
+
+#main{
+    background-color: lightgray;
+    border-radius: 0.4em;
+    border: 1px solid lightgray;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    
+}
 #title{
     text-align: center;
+    background-color: lightgrey;
+    height: 130px;
+    margin-top: 20px;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
-#image-div{
+p{
+    font-size: large;
+    font-weight: lighter;
+}
+#img-caption{
     text-align: center;
 }
 #tribute-info{
     text-align: center;
-g
-ul {
-    text-align: center;
-    text0
+    background-color: lightgray;
+    
+    
+}
 
+#image{
+    max-width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+#img-div{
+    
+    background-color: white;
+    margin-left: 25px;
+    margin-right: 25px;
 }
